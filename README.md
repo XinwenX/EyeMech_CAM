@@ -8,4 +8,8 @@
 
 ## Demo Video
 
-Watch a quick demo of the interface in action: [EyeMech Control Interface demo](https://www.youtube.com/watch?v=Sw0JpN0visc)
+1. Watch a quick demo of the interface in action: [EyeMech Control Interface demo](https://www.youtube.com/watch?v=Sw0JpN0visc)
+
+## Computer Vision
+
+Use YOLO v11n to make face detection.
