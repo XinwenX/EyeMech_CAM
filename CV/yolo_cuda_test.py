@@ -4,7 +4,7 @@ from ultralytics import YOLO
 import torch
 
 # Load the YOLOv11n Tensor model
-model = YOLO("yolo11n.engine")  # Load the TensorRT engine model
+model = YOLO("yolov11n-face.engine")  # Load the TensorRT engine model
 
 # Set up the camera source and display output
 ## Customize the camera pipeline if needed
