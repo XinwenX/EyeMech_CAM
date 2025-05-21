@@ -1,0 +1,3 @@
+[submodule "CV/yolo-face"]
+	path = CV/yolo-face
+	url = https://github.com/akanametov/yolo-face.git
